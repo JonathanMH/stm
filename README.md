@@ -29,5 +29,5 @@ go test
 You can also benchmark the function for an amount of times:
 
 ```bash
-go test -bench=. --benchtime=1000000
+go test -bench=. --benchtime 1000000
 ```

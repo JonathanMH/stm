@@ -17,7 +17,6 @@ go run . jonathan@example.com
 on Mac OS you can pipe it to your clipboard like:
 
 ```bash
-go get
 go run . jonathan@example.com | pbcopy
 ```
 
